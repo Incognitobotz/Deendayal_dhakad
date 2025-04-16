@@ -55,7 +55,7 @@ MULTI_FSUB = [int(channel_id) for channel_id in environ.get('MULTI_FSUB', '-1002
 # ============================
 # Payment Configuration
 # ============================
-QR_CODE = environ.get('QR_CODE', 'https://telegra.ph/file/83626ff7c0b1404cc3385.jpg')
+QR_CODE = environ.get('QR_CODE', 'https://i.ibb.co/TDfhrk2g/file-1276.jpg')
 OWNER_UPI_ID = environ.get('OWNER_UPI_ID', 'jaybarkesya@ibl')
 
 # ============================
@@ -87,7 +87,7 @@ HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/dreamcinezone')  # Ho
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'seturl.in')
 SHORTLINK_API = environ.get('SHORTLINK_API', 'bce801b059c63f4264e80e61cb59c7f61fd8ca5c')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/dreamcinezone')  # Tutorial video link for opening shortlink website
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/JpMovies_Official/104')  # Tutorial video link for opening shortlink website
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 
 # ============================
