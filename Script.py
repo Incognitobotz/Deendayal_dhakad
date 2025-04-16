@@ -271,7 +271,13 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/dreamcinezone">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a https://t.me/dreamcinezone>[Dreamcine_Botz]</a></b>"""
+    CAPTION = """<b><pre>📂{file_name}</pre></b>
+╔════ ღ ᴊᴘ ᴄᴏᴍᴍᴜɴɪᴛʏ ღ ════╗
+  ◆ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 @JpMoviesUpdates
+  ◆ 𝐌𝐨𝐯𝐢𝐞𝐬 @JpMovies_Official
+  ◆ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 @JpOfficialSupport
+  ◆ 𝐏𝐫𝐞𝐦𝐢𝐮𝐦 @JpMoviesPremium
+╚════ ღ ᴊᴘ ᴄᴏᴍᴍᴜɴɪᴛʏ ღ ════╝"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
