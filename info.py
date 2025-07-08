@@ -85,7 +85,7 @@ HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/JpMovies_Official/104
 # Link Shortener Configuration
 # ============================
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'smallshorts.com')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'dashboard.smallshorts.com')
 SHORTLINK_API = environ.get('SHORTLINK_API', '44483cf111781546df41ef00bbdc5b7d638b8e90')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/JpMovies_Official/104')  # Tutorial video link for opening shortlink website
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
